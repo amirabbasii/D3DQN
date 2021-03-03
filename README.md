@@ -1,2 +1,2 @@
 # D3DQN
-D3DQN:A Distributional Dueling Double DQN architecture for self-driving cars
+D3DQN:A Dueling Double DQN architecture for self-driving cars
